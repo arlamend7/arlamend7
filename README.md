@@ -1,5 +1,3 @@
-# Welcome to My GitHub Profile!
-
 ## About Me
 
 As a Full Stack developer, I am incredibly driven by the pursuit of knowledge. My passion for continuous learning pushes me to explore various areas beyond development, including Tests, DevOps, Leadership, and UX Design. To ensure that my programs are of top-notch quality, I follow the principles of the Object Calisthenics Pattern and prioritize fluent writing.
