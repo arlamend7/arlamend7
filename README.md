@@ -15,5 +15,5 @@ As a Full Stack developer, I am incredibly driven by the pursuit of knowledge. M
 - 👯 I’m looking to collaborate on Open Source Projects
 - 🤔 I’m looking for help with Cloud Architecture Design
 - 💬 Ask me about anything
-- 📫 How to reach me: arlamendes197@gmail.com or +1 514 292 5470
+- 📫 How to reach me: arlanmendes197@gmail.com or +1 639 554 6779
 - ⚡ Fun fact: I love to play roguelike indie games!!
