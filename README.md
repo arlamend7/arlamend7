@@ -98,14 +98,6 @@ I focus on building libraries with:
 - **Quality First** — Testing, automation, and continuous improvement.
 - **Pragmatic Engineering** — Solve real problems without unnecessary complexity.
 
-### GitHub Overview
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arlamend7&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Most Used Languages" />
-
-</div>
-
 <div align="center">
 
 **Always learning. Always building. Always improving.**
